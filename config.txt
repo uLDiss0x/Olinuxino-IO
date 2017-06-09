@@ -1,0 +1,4 @@
+output1: minV=4.100 maxV=6.900
+output2: minV=4.200 maxV=6.900
+output3: minV=4.300 maxV=6.900
+output4: minV=4.400 maxV=6.900
